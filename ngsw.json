@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760367456763,
+  "timestamp": 1760368907428,
   "index": "/permits/index.html",
   "assetGroups": [
     {
@@ -33,7 +33,7 @@
         "/permits/icons/icon-152x152.png",
         "/permits/icons/icon-192x192.png",
         "/permits/icons/icon-384x384.png",
-        "/permits/icons/icon-512x512.png",
+        "/permits/icons/icon-512X512.png",
         "/permits/icons/icon-72x72.png",
         "/permits/icons/icon-96x96.png"
       ],
@@ -48,7 +48,7 @@
     "/permits/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
     "/permits/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
     "/permits/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/permits/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/permits/icons/icon-512X512.png": "c1e9d0d1a0a9413a39856cf2b27c1ea87b47d86b",
     "/permits/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/permits/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/permits/index.html": "0b47ac04306d16faf41dda70248bef42e6719a9e",
