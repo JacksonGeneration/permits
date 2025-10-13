@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760370342687,
+  "timestamp": 1760370812260,
   "index": "/permits/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,7 @@
     "/permits/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/permits/index.html": "0b47ac04306d16faf41dda70248bef42e6719a9e",
     "/permits/main-QCRJB2EU.js": "7beada7e438d536c906caeb6169d444d9c2785c4",
-    "/permits/manifest.webmanifest": "c1d54afc4ad9456124deefae8e2fc2468d5a67ca",
+    "/permits/manifest.webmanifest": "4c9e3fab14a45c79a3ac2f6ffba7876eaad8a25b",
     "/permits/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/permits/styles-OULSJ4EK.css": "e8a191c9a60d940cc91402e7d2563fb51352ae9a"
   },
