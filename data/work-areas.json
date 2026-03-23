@@ -193,4 +193,7 @@
 }, {
   "name" : "Unit 2 GSU (Generator Step up Unit)",
   "id" : 11000018303
+}, {
+  "name" : "Unit 1 GSU (Generator Step up Unit)",
+  "id" : 11000018305
 } ]
