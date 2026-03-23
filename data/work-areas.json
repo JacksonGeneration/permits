@@ -190,4 +190,7 @@
 }, {
   "name" : "U2 Steam turbine Exhaust duct area (STED)",
   "id" : 11000018236
+}, {
+  "name" : "Unit 2 GSU (Generator Step up Unit)",
+  "id" : 11000018303
 } ]
