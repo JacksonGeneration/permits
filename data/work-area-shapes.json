@@ -686,4 +686,20 @@
   "originalPictureSize" : "width:12813,height:9213",
   "label" : "",
   "workAreaIds" : [ 11000018308 ]
+}, {
+  "id" : 11000018310,
+  "deleted" : false,
+  "isVerified" : false,
+  "name" : null,
+  "note" : null,
+  "createdBy" : null,
+  "objectType" : null,
+  "dataServiceItemId" : null,
+  "refactorNotes" : null,
+  "dateCreated" : [ 2026, 3, 23, 1, 26, 55, 725348000 ],
+  "dateModified" : [ 2026, 3, 23, 1, 26, 55, 725348000 ],
+  "coordinates" : "{startX:2576.0833614015482,startY:4746.217529419921,endX:2786.67945734035,endY:4805.287166085683,width:210.59609593880168,height:59.06963666576121,rotation:0}",
+  "originalPictureSize" : "width:12813,height:9213",
+  "label" : "",
+  "workAreaIds" : [ ]
 } ]
