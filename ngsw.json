@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774349578715,
+  "timestamp": 1774350340631,
   "index": "/permits/index.html",
   "assetGroups": [
     {
@@ -15,18 +15,18 @@
         "/permits/chunk-AI7NADJE.js",
         "/permits/chunk-GP6QZLPG.js",
         "/permits/chunk-KEQZ7QO5.js",
-        "/permits/chunk-M3GPQCQX.js",
         "/permits/chunk-OEST766B.js",
+        "/permits/chunk-PEC27XVT.js",
         "/permits/chunk-Q2KQC5F5.js",
         "/permits/chunk-QZB7AYH2.js",
         "/permits/chunk-RFOH545P.js",
         "/permits/chunk-RSLJ3U6V.js",
         "/permits/chunk-STXRNAPS.js",
-        "/permits/chunk-XNKMPFNL.js",
+        "/permits/chunk-WAL6XN4Z.js",
         "/permits/chunk-ZKBMETD2.js",
         "/permits/favicon.ico",
         "/permits/index.html",
-        "/permits/main-NSUUSPQX.js",
+        "/permits/main-JJM7FX5A.js",
         "/permits/manifest.webmanifest",
         "/permits/polyfills-B6TNHZQ6.js",
         "/permits/styles-NT5XIRA5.css"
@@ -59,10 +59,10 @@
     {
       "name": "app-data",
       "patterns": [
-        "\\/data\\/work-areas\\.json",
-        "\\/data\\/work-area-shapes\\.json",
-        "\\/data\\/work-categories\\.json",
-        "\\/data\\/default-instruments\\.json"
+        "\\/permits\\/data\\/work-areas\\.json",
+        "\\/permits\\/data\\/work-area-shapes\\.json",
+        "\\/permits\\/data\\/work-categories\\.json",
+        "\\/permits\\/data\\/default-instruments\\.json"
       ],
       "strategy": "freshness",
       "maxSize": 20,
@@ -79,14 +79,14 @@
     "/permits/chunk-AI7NADJE.js": "f57547dea7a774e44b2a9521c612fa66c5157a06",
     "/permits/chunk-GP6QZLPG.js": "bad0d83c4d843ee18c688d62552a5bde8d743678",
     "/permits/chunk-KEQZ7QO5.js": "308de8bc043965a813bdb5aa9531c2d70e06ae30",
-    "/permits/chunk-M3GPQCQX.js": "cf5143c6081bfa8e9201509f5a6e2926b220c327",
     "/permits/chunk-OEST766B.js": "91046c911c5d7edcb077e625fb78894cd885546e",
+    "/permits/chunk-PEC27XVT.js": "a876d556e6783a717efea952d546004dee8615e9",
     "/permits/chunk-Q2KQC5F5.js": "c9e0222a4e80385150e3eb41af98b8d0dfaa293b",
     "/permits/chunk-QZB7AYH2.js": "0fe95f4ac9112f70c7088146f86c87fa445759a4",
     "/permits/chunk-RFOH545P.js": "838ec5de835cbeda636f60155107bb8984833864",
     "/permits/chunk-RSLJ3U6V.js": "fbba7cbfc9a36c4fcd24fd5758ca05e8986e77f3",
     "/permits/chunk-STXRNAPS.js": "11404c25659807cc073a36bb2d20fc4776ed46c0",
-    "/permits/chunk-XNKMPFNL.js": "b00314846bba141236eeda36a266a2cd0106c2e9",
+    "/permits/chunk-WAL6XN4Z.js": "af579b914f8953a429b3f33698c1f11e33684cb8",
     "/permits/chunk-ZKBMETD2.js": "96c863d0824df1fa1c1a8bd12ff96f88bfbeb6b0",
     "/permits/data/work-area-map-image.jpg": "1d509c88913000efd8e961bcbc507155643631b7",
     "/permits/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
@@ -99,8 +99,8 @@
     "/permits/icons/icon-72x72.png": "31699a28914035006ffe4c2f3b275d6cb85705ba",
     "/permits/icons/icon-96x96.png": "d83314ed722313775d66ff2f64be9339dfad0df8",
     "/permits/img.jpg": "187003b825a98bffe982e48abbae9371adcf3d10",
-    "/permits/index.html": "31c704a92ecf8671bbefeddd59e4d19959830272",
-    "/permits/main-NSUUSPQX.js": "8b4f4c4890340a5b2e5e9f061d0fc2ea6077fc9f",
+    "/permits/index.html": "fc855fe51b064a6a70661cc1884494f7367fab7a",
+    "/permits/main-JJM7FX5A.js": "19d236e0d179643bd52b3e0352298abb8e7563a2",
     "/permits/manifest.webmanifest": "fab81152c4e74b8fd8dd9748a2b17f3d0f5af466",
     "/permits/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/permits/styles-NT5XIRA5.css": "cfc71ec499f8a339e2b660fa76b2de17ca533f42"
