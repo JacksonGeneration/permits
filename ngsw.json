@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774315017274,
+  "timestamp": 1774319938739,
   "index": "/permits/index.html",
   "assetGroups": [
     {
@@ -11,22 +11,22 @@
         "ignoreVary": true
       },
       "urls": [
-        "/permits/chunk-36Z5E6UE.js",
-        "/permits/chunk-4POQYEEG.js",
-        "/permits/chunk-4TQF2XMM.js",
-        "/permits/chunk-7JSOLERJ.js",
-        "/permits/chunk-BL6SQ55O.js",
-        "/permits/chunk-KQAH53U5.js",
-        "/permits/chunk-LCZBIEIY.js",
-        "/permits/chunk-LEVZ6JVR.js",
-        "/permits/chunk-PGOKIGQG.js",
-        "/permits/chunk-TBCEOOO2.js",
-        "/permits/chunk-VVDPTHMF.js",
-        "/permits/chunk-WPVU3RD6.js",
-        "/permits/chunk-XQFTPQH7.js",
+        "/permits/chunk-AI7NADJE.js",
+        "/permits/chunk-AW7NFRMQ.js",
+        "/permits/chunk-CY7XYFJP.js",
+        "/permits/chunk-FZNZBRRT.js",
+        "/permits/chunk-GP6QZLPG.js",
+        "/permits/chunk-IMT46WXA.js",
+        "/permits/chunk-KAURJGGK.js",
+        "/permits/chunk-KEQZ7QO5.js",
+        "/permits/chunk-KIPTIFAR.js",
+        "/permits/chunk-M3GPQCQX.js",
+        "/permits/chunk-PXPZZYWR.js",
+        "/permits/chunk-RSLJ3U6V.js",
+        "/permits/chunk-XNKMPFNL.js",
         "/permits/favicon.ico",
         "/permits/index.html",
-        "/permits/main-47RDGABQ.js",
+        "/permits/main-HCQG3NM2.js",
         "/permits/manifest.webmanifest",
         "/permits/polyfills-B6TNHZQ6.js",
         "/permits/styles-NT5XIRA5.css"
@@ -55,21 +55,39 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "app-data",
+      "patterns": [
+        "\\/data\\/work-areas\\.json",
+        "\\/data\\/work-area-shapes\\.json",
+        "\\/data\\/work-categories\\.json",
+        "\\/data\\/default-instruments\\.json"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
-    "/permits/chunk-36Z5E6UE.js": "7f930be18e46a4c3ccf4c139b89bd58d4b3bbcaf",
-    "/permits/chunk-4POQYEEG.js": "4e95428781ad793236ce8c33a689ab237b1d7ef8",
-    "/permits/chunk-4TQF2XMM.js": "ec7db8a6198dd4ce131541c54eb4d590dab3eb72",
-    "/permits/chunk-7JSOLERJ.js": "018c148bd88822c93f565c1bb0587f0d65880736",
-    "/permits/chunk-BL6SQ55O.js": "3294fda90a5aa9129391185329ddb485131973d0",
-    "/permits/chunk-KQAH53U5.js": "ebefb3ede8190e875fec44085fe4ad0bc52fb507",
-    "/permits/chunk-LCZBIEIY.js": "3b81bb1deba12adc8c7b2da4b6ad1e63c6428ba3",
-    "/permits/chunk-LEVZ6JVR.js": "172b53661b5c63244db5aa7f2cf8871c9eedd6f8",
-    "/permits/chunk-PGOKIGQG.js": "39fbef889f7f2d89e0a08c8e5102d56f02b55eb5",
-    "/permits/chunk-TBCEOOO2.js": "153003eb2643e456b5ea802f610362ae96e781d5",
-    "/permits/chunk-VVDPTHMF.js": "9ba1ea1f1d31fd99196e19a09641597448c7b746",
-    "/permits/chunk-WPVU3RD6.js": "07d673cbea61bfd07f6d06e20354922d1d238961",
-    "/permits/chunk-XQFTPQH7.js": "0bd48b8a84668d13be09d1c16f607a8e2cc8ca17",
+    "/permits/chunk-AI7NADJE.js": "f57547dea7a774e44b2a9521c612fa66c5157a06",
+    "/permits/chunk-AW7NFRMQ.js": "3314465d5d58e1688278f4937ecf51bfd7cef119",
+    "/permits/chunk-CY7XYFJP.js": "7f76d5dda9070f1d85562c4fb61c32e95de5980a",
+    "/permits/chunk-FZNZBRRT.js": "52b7690f948e65515850ebb8f7d5614ebdf6dd42",
+    "/permits/chunk-GP6QZLPG.js": "bad0d83c4d843ee18c688d62552a5bde8d743678",
+    "/permits/chunk-IMT46WXA.js": "5a812d4e376fcc6a827b3cf809aca21bd92b51d6",
+    "/permits/chunk-KAURJGGK.js": "40713618303de02e93d9585a97b32755d56e0295",
+    "/permits/chunk-KEQZ7QO5.js": "308de8bc043965a813bdb5aa9531c2d70e06ae30",
+    "/permits/chunk-KIPTIFAR.js": "407012d36f664cc91516b42812169acb351885f0",
+    "/permits/chunk-M3GPQCQX.js": "cf5143c6081bfa8e9201509f5a6e2926b220c327",
+    "/permits/chunk-PXPZZYWR.js": "e8be181a867e306c32cb8028431059c5980ca4da",
+    "/permits/chunk-RSLJ3U6V.js": "fbba7cbfc9a36c4fcd24fd5758ca05e8986e77f3",
+    "/permits/chunk-XNKMPFNL.js": "b00314846bba141236eeda36a266a2cd0106c2e9",
     "/permits/data/work-area-map-image.jpg": "1d509c88913000efd8e961bcbc507155643631b7",
     "/permits/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/permits/icons/icon-128x128.png": "68758900d32d546ad3936fa49be850dd689bb7dc",
@@ -81,8 +99,8 @@
     "/permits/icons/icon-72x72.png": "31699a28914035006ffe4c2f3b275d6cb85705ba",
     "/permits/icons/icon-96x96.png": "d83314ed722313775d66ff2f64be9339dfad0df8",
     "/permits/img.jpg": "187003b825a98bffe982e48abbae9371adcf3d10",
-    "/permits/index.html": "eff65f172aff37e2cf64bfd4c9730c00a34ebe2f",
-    "/permits/main-47RDGABQ.js": "c3dfeb281b5391baf7d602ce4d962c6059e970f4",
+    "/permits/index.html": "7f92a69b9cbcd37d53a06d59b0af4ff0f6e34d80",
+    "/permits/main-HCQG3NM2.js": "e8f2bfe484abebcdf04dc7e60b380c7ac83c748c",
     "/permits/manifest.webmanifest": "fab81152c4e74b8fd8dd9748a2b17f3d0f5af466",
     "/permits/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/permits/styles-NT5XIRA5.css": "cfc71ec499f8a339e2b660fa76b2de17ca533f42"
