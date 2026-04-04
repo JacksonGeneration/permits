@@ -105,10 +105,10 @@
   "dataServiceItemId" : null,
   "refactorNotes" : null,
   "dateCreated" : "2026-03-27T00:12:48.414282",
-  "dateModified" : "2026-03-27T00:12:48.414282",
-  "coordinates" : null,
-  "originalPictureSize" : null,
-  "label" : null,
+  "dateModified" : "2026-04-04T02:51:08.002048",
+  "coordinates" : "{startX:0,startY:0,endX:100,endY:100,width:100,height:100,rotation:0}",
+  "originalPictureSize" : "width:1000,height:800",
+  "label" : "",
   "workAreaIds" : [ ]
 }, {
   "id" : 8000018238,
