@@ -1,4 +1,20 @@
 [ {
+  "id" : 3000018848,
+  "deleted" : false,
+  "isVerified" : false,
+  "name" : null,
+  "note" : null,
+  "createdBy" : null,
+  "objectType" : null,
+  "dataServiceItemId" : null,
+  "refactorNotes" : null,
+  "dateCreated" : "2026-04-04T02:51:37.812292",
+  "dateModified" : "2026-04-04T02:51:37.812292",
+  "coordinates" : "{startX:2024.1617182589773,startY:1097.0549942395194,endX:2618.2091790523727,endY:1757.1077284544033,width:594.0474607933954,height:660.0527342148839,rotation:0}",
+  "originalPictureSize" : "width:12813,height:9213",
+  "label" : "",
+  "workAreaIds" : [ ]
+}, {
   "id" : 8000013598,
   "deleted" : false,
   "isVerified" : false,
