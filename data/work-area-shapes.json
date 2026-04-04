@@ -63,22 +63,6 @@
   "label" : null,
   "workAreaIds" : [ ]
 }, {
-  "id" : 8000013607,
-  "deleted" : false,
-  "isVerified" : false,
-  "name" : null,
-  "note" : null,
-  "createdBy" : null,
-  "objectType" : null,
-  "dataServiceItemId" : null,
-  "refactorNotes" : null,
-  "dateCreated" : "2026-03-27T00:12:47.99705",
-  "dateModified" : "2026-03-27T00:12:47.99705",
-  "coordinates" : null,
-  "originalPictureSize" : null,
-  "label" : null,
-  "workAreaIds" : [ ]
-}, {
   "id" : 8000018271,
   "deleted" : false,
   "isVerified" : false,
