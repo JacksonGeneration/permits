@@ -653,7 +653,7 @@
   "coordinates" : "{startX:3179.5867365953527,startY:3716.200985708004,endX:3441.833318293673,endY:4093.0719011287692,width:262.24658169832037,height:376.8709154207654,rotation:0}",
   "originalPictureSize" : "width:12813,height:9213",
   "label" : "",
-  "workAreaIds" : [ 11000018207, 11000018212 ]
+  "workAreaIds" : [ 8000019550, 11000018207, 11000018212 ]
 }, {
   "id" : 11000018209,
   "deleted" : false,
