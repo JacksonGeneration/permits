@@ -1,10 +1,7 @@
 [ {
-  "id" : 2000000095,
+  "id" : 1000000102,
   "name" : "Control Room"
 }, {
-  "id" : 2000041242,
-  "name" : "U2 CRT/DA Area "
-}, {
-  "id" : 2000014712,
+  "id" : 1000000101,
   "name" : "Switchyard"
 } ]
