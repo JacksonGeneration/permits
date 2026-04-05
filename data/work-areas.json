@@ -95,6 +95,9 @@
   "id" : 8000019550,
   "name" : "Unit 1 Gas Turbine Enclosure ( combustor)"
 }, {
+  "id" : 8000019551,
+  "name" : "Unit 2 Gas Turbine enclosure ( combustor) "
+}, {
   "id" : 11000018078,
   "name" : "U2 CRT/DA Tank"
 }, {
