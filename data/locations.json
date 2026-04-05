@@ -89,6 +89,9 @@
   "name" : "TCP",
   "id" : 10910
 }, {
+  "name" : "",
+  "id" : 11000027526
+}, {
   "name" : "ST BUILDING WEST- LOWER",
   "id" : 6053
 }, {
@@ -163,7 +166,4 @@
 }, {
   "name" : "U2 CRT/DA Area ",
   "id" : 11000027102
-}, {
-  "name" : "U1 1st level pipe rack ",
-  "id" : 11000027230
 } ]
