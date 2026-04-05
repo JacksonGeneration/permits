@@ -1,13 +1,13 @@
 [ {
   "id" : 21002,
-  "tagNumber" : "LOTONODATA219.",
+  "tagNumber" : "LOTONODATA219",
   "description" : "LV SWGR 11 BREAKER CONTROL WITH VERY LONG DESCRIPTION FOR TESTING ENGRAVER",
   "specificLocation" : " HRSG1 PDC 125VDC BUS, BR1",
   "eqType" : "",
   "locationId" : null
 }, {
   "id" : 21003,
-  "tagNumber" : "LOTONODATA221",
+  "tagNumber" : "LOTONODATA221.",
   "description" : "LV SWGR 21 BREAKER CONTROL",
   "specificLocation" : " HRSG1 PDC 125VDC BUS, BR2",
   "eqType" : "",
