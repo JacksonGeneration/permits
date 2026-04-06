@@ -5,6 +5,9 @@
   "name" : "U2 CRT/DA Area ",
   "id" : 2000041242
 }, {
+  "name" : "Unit 2 HRSG HP Drum (Heat Recovery Steam Generator)",
+  "id" : 2000042058
+}, {
   "name" : "Switchyard",
   "id" : 2000014712
 }, {
