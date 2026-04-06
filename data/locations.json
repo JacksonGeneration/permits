@@ -104,6 +104,9 @@
   "name" : "Unit 1 HRSG lower (Heat Recovery Steam Generator)",
   "id" : 11000027523
 }, {
+  "name" : "Control Room",
+  "id" : 11000027650
+}, {
   "name" : "PIPE RACK 2ND LEVEL",
   "id" : 5802
 }, {
