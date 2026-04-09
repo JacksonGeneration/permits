@@ -86,7 +86,7 @@
   "name" : "HRSG EAST- LOWER",
   "id" : 10909
 }, {
-  "name" : "Switchyard",
+  "name" : "SWITCHYARD",
   "id" : 23709
 }, {
   "name" : "TCP",
@@ -116,11 +116,11 @@
   "name" : "U2 3rd level pipe rack ",
   "id" : 11000027494
 }, {
+  "name" : "Control Room",
+  "id" : 5000027714
+}, {
   "name" : "U2 inlet filter house ",
   "id" : 11000027104
-}, {
-  "name" : "Control Room",
-  "id" : 1000000093
 }, {
   "name" : "Unit 2 HRSG HP Drum (Heat Recovery Steam Generator)",
   "id" : 11000027490
