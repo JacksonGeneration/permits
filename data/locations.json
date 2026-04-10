@@ -2,6 +2,9 @@
   "id" : 11000027683,
   "name" : "U2 CRT/DA Tank"
 }, {
+  "id" : 11000027810,
+  "name" : "U2 1st level pipe rack "
+}, {
   "id" : 5902,
   "name" : "PIPE RACK 1ST LEVEL"
 }, {
@@ -10,9 +13,6 @@
 }, {
   "id" : 5906,
   "name" : "CRT AREA"
-}, {
-  "id" : 8000027714,
-  "name" : "Control Room"
 }, {
   "id" : 17302,
   "name" : "ST BUILDING EAST - LOWER"
@@ -121,6 +121,9 @@
 }, {
   "id" : 11000027104,
   "name" : "U2 inlet filter house "
+}, {
+  "id" : 1000000093,
+  "name" : "Control Room"
 }, {
   "id" : 11000027490,
   "name" : "Unit 2 HRSG HP Drum (Heat Recovery Steam Generator)"
