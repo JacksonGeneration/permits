@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1775981276623,
+  "timestamp": 1776040930628,
   "index": "/permits/index.html",
   "assetGroups": [
     {
@@ -40,7 +40,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/permits/data/work-area-map-image.jpg",
         "/permits/icons/icon-128x128.png",
         "/permits/icons/icon-144x144.png",
         "/permits/icons/icon-152x152.png",
@@ -61,7 +60,10 @@
         "\\/permits\\/data\\/work-areas\\.json",
         "\\/permits\\/data\\/work-area-shapes\\.json",
         "\\/permits\\/data\\/work-categories\\.json",
-        "\\/permits\\/data\\/default-instruments\\.json"
+        "\\/permits\\/data\\/default-instruments\\.json",
+        "\\/permits\\/data\\/locations\\.json",
+        "\\/permits\\/data\\/loto-points\\.json",
+        "\\/permits\\/data\\/field-list-types\\.json"
       ],
       "strategy": "freshness",
       "maxSize": 20,
@@ -86,7 +88,6 @@
     "/permits/chunk-XLUPLA75.js": "48729cf6320e1e850983d405674e3de9284d56fc",
     "/permits/chunk-YNJFSLSD.js": "ba5495b21aa697ec1f09ee3c5a4ff6e2d577a01d",
     "/permits/chunk-ZKOHR52I.js": "2dbb02566ce26e2b8bec61b1968294128c845d17",
-    "/permits/data/work-area-map-image.jpg": "1d509c88913000efd8e961bcbc507155643631b7",
     "/permits/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/permits/icons/icon-128x128.png": "68758900d32d546ad3936fa49be850dd689bb7dc",
     "/permits/icons/icon-144x144.png": "dabf0754dd221870a6c05480333c5f407e686cf9",
