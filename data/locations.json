@@ -128,9 +128,6 @@
   "name" : "Unit 2 Steam turbine west side Ground floor ",
   "id" : 11000027496
 }, {
-  "name" : "Control Room",
-  "id" : 3000027906
-}, {
   "name" : "ACC UPPER",
   "id" : 12502
 }, {
@@ -170,6 +167,9 @@
   "name" : "CCW SKID",
   "id" : 7652
 }, {
+  "name" : "Control Room",
+  "id" : 3000027938
+}, {
   "name" : "Regulation Station ",
   "id" : 11000027735
 }, {
@@ -178,7 +178,4 @@
 }, {
   "name" : "U1 1st level pipe rack ",
   "id" : 11000027230
-}, {
-  "name" : "Regulation Station ",
-  "id" : 11000027737
 } ]
