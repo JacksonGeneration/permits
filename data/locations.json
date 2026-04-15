@@ -119,9 +119,6 @@
   "id" : 11000027494,
   "name" : "U2 3rd level pipe rack "
 }, {
-  "id" : 5000027714,
-  "name" : "Control Room"
-}, {
   "id" : 11000027104,
   "name" : "U2 inlet filter house "
 }, {
@@ -169,6 +166,9 @@
 }, {
   "id" : 7652,
   "name" : "CCW SKID"
+}, {
+  "id" : 1000080242,
+  "name" : "Control Room"
 }, {
   "id" : 11000027735,
   "name" : "Regulation Station "
