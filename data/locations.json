@@ -128,6 +128,9 @@
   "id" : 11000027490,
   "name" : "Unit 2 HRSG HP Drum (Heat Recovery Steam Generator)"
 }, {
+  "id" : 11000028386,
+  "name" : "U2 CRT/DA Area "
+}, {
   "id" : 11000027496,
   "name" : "Unit 2 Steam turbine west side Ground floor "
 }, {
