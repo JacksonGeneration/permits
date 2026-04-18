@@ -7,7 +7,7 @@
   "locationId" : null
 }, {
   "id" : 21003,
-  "tagNumber" : "LOTONODATA221.",
+  "tagNumber" : "LOTONODATA221",
   "description" : "LV SWGR 21 BREAKER CONTROL",
   "specificLocation" : " HRSG1 PDC 125VDC BUS, BR2",
   "eqType" : "",
