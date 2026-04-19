@@ -113,6 +113,9 @@
   "name" : "Unit 1 HRSG lower (Heat Recovery Steam Generator)",
   "id" : 11000027523
 }, {
+  "name" : "Unit 2 HRSG HP Drum (Heat Recovery Steam Generator)",
+  "id" : 11000028418
+}, {
   "name" : "PIPE RACK 2ND LEVEL",
   "id" : 5802
 }, {
