@@ -81288,7 +81288,7 @@
   "description" : "DB PILOT PURGE CREDIT AOV VENT #1",
   "specificLocation" : "HRSG WEST - LOWER",
   "eqType" : "",
-  "locationId" : null
+  "locationId" : 10907
 }, {
   "id" : 107292,
   "tagNumber" : "02-V-BUR891",
