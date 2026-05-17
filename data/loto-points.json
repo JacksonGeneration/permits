@@ -83389,4 +83389,11 @@
   "specificLocation" : "ST BUILDING WEST- UPPER",
   "eqType" : "Air Operated Valve",
   "locationId" : 6054
+}, {
+  "id" : 5000049967,
+  "tagNumber" : "01-YV CND705",
+  "description" : "CRH Ventilator Attemperator Block Valve",
+  "specificLocation" : "ST BUILDING WEST- UPPER",
+  "eqType" : "Air Operated Valve",
+  "locationId" : 6054
 } ]
