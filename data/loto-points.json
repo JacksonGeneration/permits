@@ -83396,4 +83396,11 @@
   "specificLocation" : "ST BUILDING WEST- UPPER",
   "eqType" : "Air Operated Valve",
   "locationId" : 6054
+}, {
+  "id" : 5000049968,
+  "tagNumber" : "02-LBG-02AA701",
+  "description" : "AUX TO GLAND STEAM PCV",
+  "specificLocation" : "ST BUILDING WEST- UPPER",
+  "eqType" : "Air Operated Valve",
+  "locationId" : 6054
 } ]
