@@ -83417,4 +83417,11 @@
   "specificLocation" : "02-LVB-PPL-1311, BR 19/21/23, ACC MCC",
   "eqType" : "Motor Operated Valve",
   "locationId" : 5906
+}, {
+  "id" : 5000049973,
+  "tagNumber" : "02-MOV-CND211.",
+  "description" : "UNIT 1 COND TO COND IRON FLTR 02B LVL PWR 480VAC",
+  "specificLocation" : "02-LVB-PPL-1311, BR 14/16/18 , ACC MCC",
+  "eqType" : "Motor Operated Valve",
+  "locationId" : 5906
 } ]
