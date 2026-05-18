@@ -78724,7 +78724,7 @@
   "id" : 92852,
   "tagNumber" : "00-MOV-AXS902",
   "description" : "AUX BOILER VENT STOP MOV POWER",
-  "specificLocation" : "",
+  "specificLocation" : "Aux boiler",
   "eqType" : "Motor Operated Valve",
   "locationId" : 14106
 }, {
