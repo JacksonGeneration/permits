@@ -83410,4 +83410,11 @@
   "specificLocation" : "",
   "eqType" : "Air Operated Valve",
   "locationId" : 6054
+}, {
+  "id" : 5000049972,
+  "tagNumber" : "02-MOV-CND221.",
+  "description" : "UNIT 1 COND IRON FLTR BYP VLV PWR 480VAC",
+  "specificLocation" : "02-LVB-PPL-1311, BR 19/21/23, ACC MCC",
+  "eqType" : "Motor Operated Valve",
+  "locationId" : 5906
 } ]
