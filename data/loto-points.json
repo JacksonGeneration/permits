@@ -1,6 +1,6 @@
 [ {
   "id" : 21002,
-  "tagNumber" : "01-PMP-LOS001-JG dk-test111",
+  "tagNumber" : "01-PMP-LOS001-JG dk-test1",
   "description" : "LV SWGR 11 BREAKER CONTROL",
   "specificLocation" : " HRSG1 PDC 125VDC BUS, BR1",
   "eqType" : "HEATER-DRYER",
