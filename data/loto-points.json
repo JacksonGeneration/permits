@@ -83376,6 +83376,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
 }, {
+  "id" : 1000082572,
+  "tagNumber" : "00-SAT-CPL-21",
+  "description" : "UAT21 CONTROL POWER FEED",
+  "specificLocation" : "MVB, 01-LVB-SVB-171, BR58",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10904
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
