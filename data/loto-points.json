@@ -83370,8 +83370,8 @@
   "locationId" : 10907
 }, {
   "id" : 1000082568,
-  "tagNumber" : "01-SAT-CPL-11",
-  "description" : "UAT CONTROL POWER FEED",
+  "tagNumber" : "00-SAT-CPL-11",
+  "description" : "UAT11 CONTROL POWER FEED",
   "specificLocation" : "MVB, 01-LVB-SVB-171, BR56",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
