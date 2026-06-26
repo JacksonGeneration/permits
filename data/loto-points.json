@@ -83371,7 +83371,7 @@
 }, {
   "id" : 1000082568,
   "tagNumber" : "00-SAT-CPL-11",
-  "description" : "UAT11 CONTROL POWER FEED",
+  "description" : "SAT 11 CTRL PNL 480 VAC PWR MAIN 1",
   "specificLocation" : "MVB, 01-LVB-SVB-171, BR56",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
