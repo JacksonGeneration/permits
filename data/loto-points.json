@@ -83428,7 +83428,7 @@
   "id" : 1000082688,
   "tagNumber" : "01-HTT-XFR-1118",
   "description" : "HRSG 1 GRADE W HEAT TRACE XFMR",
-  "specificLocation" : "HRSG-1 ENCLOSURE MCC 111 CUBICLE 4FF(L)",
+  "specificLocation" : "HRSG-1 ENCLOSURE MCC 111 CUBICLE 4FF(R)",
   "eqType" : "",
   "locationId" : null
 }, {
