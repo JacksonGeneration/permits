@@ -83411,6 +83411,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
 }, {
+  "id" : 1000082648,
+  "tagNumber" : "02BMC01",
+  "description" : "U2 MHI ESS MCC 02BMC01 (UPSTREAM FEED)",
+  "specificLocation" : "MV BLDG, 02-LVB-SWG-27, CUBICLE",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10904
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
