@@ -83386,7 +83386,7 @@
   "id" : 1000082631,
   "tagNumber" : "00-FGS-HTR-11",
   "description" : "FUEL GAS LP DEW POINT HEATER",
-  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-11",
+  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-21",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
 }, {
