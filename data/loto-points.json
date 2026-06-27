@@ -83425,6 +83425,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
 }, {
+  "id" : 1000082688,
+  "tagNumber" : "01-HTT-XFR-1118",
+  "description" : "HRSG 1 GRADE W HEAT TRACE XFMR",
+  "specificLocation" : "HRSG-1 ENCLOSURE MCC 111 CUBICLE 4FF(L)",
+  "eqType" : "",
+  "locationId" : null
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
