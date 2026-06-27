@@ -83397,6 +83397,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
 }, {
+  "id" : 1000082644,
+  "tagNumber" : "01BFJ01",
+  "description" : "U1 MHI MCC 01BFJ01",
+  "specificLocation" : "MV BLDG, 01-LVB-SWG-17, CUBICLE",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10904
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
