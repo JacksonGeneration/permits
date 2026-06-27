@@ -83383,6 +83383,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
 }, {
+  "id" : 1000082631,
+  "tagNumber" : "00-FGS-HTR-11",
+  "description" : "UAT21 CONTROL POWER FEED",
+  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-11",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10907
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
