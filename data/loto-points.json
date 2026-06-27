@@ -83399,7 +83399,7 @@
 }, {
   "id" : 1000082644,
   "tagNumber" : "01BFJ01",
-  "description" : "U1 MHI MCC 01BFJ01",
+  "description" : "U1 MHI MCC 01BFJ01 (UPSTREAM)",
   "specificLocation" : "MV BLDG, 01-LVB-SWG-17, CUBICLE",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10904
