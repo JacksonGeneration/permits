@@ -83393,7 +83393,7 @@
   "id" : 1000082635,
   "tagNumber" : "00-INA-PNL-01B",
   "description" : "AIR COMPRESSOR B CONTROL PANEL",
-  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-11",
+  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-21",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
 }, {
