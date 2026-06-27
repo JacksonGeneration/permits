@@ -83390,6 +83390,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
 }, {
+  "id" : 1000082635,
+  "tagNumber" : "00-INA-PNL-01B",
+  "description" : "FUEL GAS LP DEW POINT HEATER",
+  "specificLocation" : "U1 HRSG MCC, 01-LVB-SWG-11",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10907
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
