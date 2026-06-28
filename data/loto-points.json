@@ -83432,6 +83432,13 @@
   "eqType" : "",
   "locationId" : null
 }, {
+  "id" : 1000082775,
+  "tagNumber" : "01-HTT-XFR-1117",
+  "description" : "HRSG 1 FINGER RACK S HEAT TRACE XFMR",
+  "specificLocation" : "HRSG-1 ENCLOSURE MCC 211 CUBICLE 4FF(L)",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10907
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
