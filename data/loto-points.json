@@ -18880,7 +18880,7 @@
 }, {
   "id" : 23699,
   "tagNumber" : "02BVR01",
-  "description" : "25V DC STARTER PANEL",
+  "description" : "125V DC STARTER PANEL",
   "specificLocation" : " TCP",
   "eqType" : "",
   "locationId" : null
@@ -31438,7 +31438,7 @@
 }, {
   "id" : 25493,
   "tagNumber" : "01BVR01",
-  "description" : "25V DC STARTER PANEL",
+  "description" : "125V DC STARTER PANEL",
   "specificLocation" : " TCP",
   "eqType" : "",
   "locationId" : null
