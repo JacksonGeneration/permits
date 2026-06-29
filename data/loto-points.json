@@ -83460,6 +83460,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10910
 }, {
+  "id" : 1000083133,
+  "tagNumber" : "01BTB01GS101",
+  "description" : "125V DC BATTERY SWITCH",
+  "specificLocation" : "TCP, 01BTB01GS101 BOX",
+  "eqType" : "125VDC DISCONNECT",
+  "locationId" : 10910
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
