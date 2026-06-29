@@ -83502,6 +83502,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10905
 }, {
+  "id" : 1000083333,
+  "tagNumber" : "01-LVB-XFR-2311",
+  "description" : "ACC 1 GRADE XFMR 480-120/208VAC",
+  "specificLocation" : "ACC MCC, 01-ACC-MCC-231, CUBICLE 4FF",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : null
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
