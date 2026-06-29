@@ -83516,6 +83516,13 @@
   "eqType" : "FAN-BLOWER-COMPRESSOR",
   "locationId" : 12502
 }, {
+  "id" : 1000083434,
+  "tagNumber" : "02-LVB-XFR-2411",
+  "description" : "ACC 2 GRADE XFMR 480-208/120VAC",
+  "specificLocation" : "ACC MCC, 02-ACC-MCC-241, CUBICLE 4FF",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : null
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
