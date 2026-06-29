@@ -83509,6 +83509,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : null
 }, {
+  "id" : 1000083344,
+  "tagNumber" : "01-ACC-HEX-01A",
+  "description" : "UNIT 1 ACC FAN GEARBOX OIL COOLER 01A",
+  "specificLocation" : "01-ACC-MCC-131, CUBICLE 17FB",
+  "eqType" : "FAN-BLOWER-COMPRESSOR",
+  "locationId" : 12502
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
