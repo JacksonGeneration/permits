@@ -83474,6 +83474,13 @@
   "eqType" : "125VDC DISCONNECT",
   "locationId" : 10910
 }, {
+  "id" : 1000083172,
+  "tagNumber" : "02MPV03AN102-M01",
+  "description" : "LUBE OIL VAPOR EXTRACTOR B POWER FEED",
+  "specificLocation" : " TCP",
+  "eqType" : "FAN-BLOWER-COMPRESSOR",
+  "locationId" : 17302
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
