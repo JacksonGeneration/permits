@@ -83488,6 +83488,13 @@
   "eqType" : "",
   "locationId" : null
 }, {
+  "id" : 1000083262,
+  "tagNumber" : "02BTL01",
+  "description" : "220V DC RECTIFIER PANE",
+  "specificLocation" : " TCP",
+  "eqType" : "",
+  "locationId" : 10910
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
