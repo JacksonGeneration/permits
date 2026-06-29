@@ -83523,6 +83523,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : null
 }, {
+  "id" : 1000083466,
+  "tagNumber" : "02-HTT-XFR-1612",
+  "description" : "U2 ACC HEAT TRACE XFMR 480-120/208VAC",
+  "specificLocation" : "ACC MCC, 02-ACC-MCC-161, CUBICLE 3FJ(R)",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : null
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
