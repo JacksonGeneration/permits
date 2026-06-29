@@ -19068,11 +19068,11 @@
   "locationId" : null
 }, {
   "id" : 23726,
-  "tagNumber" : "02BTL01",
+  "tagNumber" : "01BTL01",
   "description" : "220V DC RECTIFIER PANE",
   "specificLocation" : " TCP",
   "eqType" : "",
-  "locationId" : null
+  "locationId" : 10910
 }, {
   "id" : 23727,
   "tagNumber" : "02MKA01GH001",
