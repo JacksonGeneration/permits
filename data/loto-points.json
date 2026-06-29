@@ -83481,6 +83481,13 @@
   "eqType" : "FAN-BLOWER-COMPRESSOR",
   "locationId" : 17302
 }, {
+  "id" : 1000083261,
+  "tagNumber" : "02BAW11GH001(NGC)",
+  "description" : "NEUTRAL GROUND CUBICLE FOR GEN",
+  "specificLocation" : "TURBINE BUILDING",
+  "eqType" : "",
+  "locationId" : null
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
