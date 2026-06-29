@@ -83446,6 +83446,13 @@
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
 }, {
+  "id" : 1000083057,
+  "tagNumber" : "01BJT01",
+  "description" : "120V AC DISTRIBUTION PANEL TCP 01BJT01",
+  "specificLocation" : "TCP, 01BFJ01,",
+  "eqType" : "Breaker 480VAC",
+  "locationId" : 10910
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
