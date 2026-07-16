@@ -83599,4 +83599,11 @@
   "specificLocation" : "GT ENCLOSURE 3RD LEVEL WEST SIDE",
   "eqType" : "Manual Valve",
   "locationId" : 23702
+}, {
+  "id" : 11000036617,
+  "tagNumber" : "01QFF11AA671",
+  "description" : "MAIN INA VENT TO FG PURGE AIR ROOT/VENT/BLOCK AOVs",
+  "specificLocation" : "GT ENCLOSURE WEST - UPPER (3RD LEVEL)",
+  "eqType" : "Manual Valve",
+  "locationId" : 23702
 } ]
