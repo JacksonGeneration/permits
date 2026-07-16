@@ -83592,4 +83592,11 @@
   "specificLocation" : "HRSG-1 ENCLOSURE MCC 111 CUBICLE 11FC(L)",
   "eqType" : "Breaker 480VAC",
   "locationId" : 10907
+}, {
+  "id" : 11000036615,
+  "tagNumber" : "01QFF11AA611",
+  "description" : "MAIN INA ISO TO FG PURGE AIR ROOT/VENT/BLOCK AOVs",
+  "specificLocation" : "GT ENCLOSURE 3RD LEVEL WEST SIDE",
+  "eqType" : "Manual Valve",
+  "locationId" : 23702
 } ]
