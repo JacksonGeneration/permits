@@ -8261,9 +8261,9 @@
 }, {
   "id" : 22182,
   "tagNumber" : "01-PMP-CTP001-JG",
-  "description" : "U1 EVAP COOLER PUMP POWER",
-  "specificLocation" : "GT INLET- INSIDE EVAP CONTROL PANEL",
-  "eqType" : "CONTROL PANEL",
+  "description" : "EVAP COOLER PUMP POWER",
+  "specificLocation" : "EVAP CONTROL PANEL, CB01",
+  "eqType" : "Pump",
   "locationId" : 20506
 }, {
   "id" : 22183,
@@ -21987,11 +21987,11 @@
   "locationId" : null
 }, {
   "id" : 24143,
-  "tagNumber" : "0201",
-  "description" : "EVAP COOLER PUMP",
-  "specificLocation" : "EVAP CONTROL PANEL",
-  "eqType" : "",
-  "locationId" : null
+  "tagNumber" : "02-PMP-CTP001-JG",
+  "description" : "EVAP COOLER PUMP POWER",
+  "specificLocation" : "EVAP CONTROL PANEL, CB01",
+  "eqType" : "Pump",
+  "locationId" : 20506
 }, {
   "id" : 24144,
   "tagNumber" : "no data",
