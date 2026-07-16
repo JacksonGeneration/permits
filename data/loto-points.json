@@ -8260,7 +8260,7 @@
   "locationId" : 20506
 }, {
   "id" : 22182,
-  "tagNumber" : "CB01",
+  "tagNumber" : "01-PMP-CTP001-JG",
   "description" : "U1 EVAP COOLER PUMP POWER",
   "specificLocation" : "GT INLET- INSIDE EVAP CONTROL PANEL",
   "eqType" : "CONTROL PANEL",
