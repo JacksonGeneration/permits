@@ -83602,7 +83602,7 @@
 }, {
   "id" : 11000036617,
   "tagNumber" : "01QFF11AA671",
-  "description" : "MAIN INA VENT TO FG PURGE AIR ROOT/VENT/BLOCK AOVs",
+  "description" : "MAIN INA ISO TO 4S COOLIN AIR CV",
   "specificLocation" : "GT ENCLOSURE WEST - UPPER (3RD LEVEL)",
   "eqType" : "Manual Valve",
   "locationId" : 23702
