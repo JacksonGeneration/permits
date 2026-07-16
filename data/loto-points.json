@@ -7645,7 +7645,7 @@
 }, {
   "id" : 22094,
   "tagNumber" : "01-V-BUR800",
-  "description" : "DB PURGE CREDIT SKID MAIN ISO",
+  "description" : "DB SKID MAIN ISO",
   "specificLocation" : "HRSG WEST - LOWER",
   "eqType" : "Manual Valve",
   "locationId" : 10907
