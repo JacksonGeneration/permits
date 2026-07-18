@@ -83439,6 +83439,13 @@
   "eqType" : "",
   "locationId" : 2000014976
 }, {
+  "id" : 2000083964,
+  "tagNumber" : "TESTINGSYNC12345678",
+  "description" : "TESTING SYNC",
+  "specificLocation" : "TESTINGSYNC",
+  "eqType" : "",
+  "locationId" : 2000014976
+}, {
   "id" : 3000071916,
   "tagNumber" : "01-TV-HPS123TEST",
   "description" : "HP HEADER DRIPLEG DRAIN AOV",
