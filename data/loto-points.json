@@ -83397,13 +83397,6 @@
   "eqType" : "",
   "locationId" : 2000014976
 }, {
-  "id" : 2000074043,
-  "tagNumber" : "02-PMP-LOS001-JG dk-test1",
-  "description" : "LV SWGR 11 BREAKER CONTROL",
-  "specificLocation" : " HRSG1 PDC 125VDC BUS, BR1",
-  "eqType" : "HEATER-DRYER",
-  "locationId" : 6053
-}, {
   "id" : 2000083621,
   "tagNumber" : "TESTINGSYNC",
   "description" : "TESTING SYNC",
@@ -83440,7 +83433,7 @@
   "locationId" : 2000014976
 }, {
   "id" : 2000083964,
-  "tagNumber" : "compacting-test-tag-number111",
+  "tagNumber" : "compacting-test-tag-number1234",
   "description" : "TESTING SYNC",
   "specificLocation" : "TESTINGSYNC",
   "eqType" : "",
