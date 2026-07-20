@@ -83593,6 +83593,13 @@
   "eqType" : "Manual Valve",
   "locationId" : 17303
 }, {
+  "id" : 8000033037,
+  "tagNumber" : "01QFF11AA112",
+  "description" : "INA SUPPLY TO GT IGNITORS ISO",
+  "specificLocation" : "GT ENCLOSURE GROUND LEVEL EAST SIDE",
+  "eqType" : "Manual Valve",
+  "locationId" : 41303
+}, {
   "id" : 11000029508,
   "tagNumber" : "01-LVB-XFR-1111",
   "description" : "HRSG 1 PDC XFMR",
