@@ -83586,6 +83586,13 @@
   "eqType" : "Motor Operated Valve",
   "locationId" : 5906
 }, {
+  "id" : 8000032994,
+  "tagNumber" : "02MKW01AA113",
+  "description" : "SEAL OIL PRV BYPASS",
+  "specificLocation" : "ST BASEMENT",
+  "eqType" : "Manual Valve",
+  "locationId" : 17303
+}, {
   "id" : 11000029508,
   "tagNumber" : "01-LVB-XFR-1111",
   "description" : "HRSG 1 PDC XFMR",
