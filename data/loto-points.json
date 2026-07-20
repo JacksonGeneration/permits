@@ -83544,6 +83544,13 @@
   "eqType" : "Manual Valve",
   "locationId" : 26902
 }, {
+  "id" : 1000085069,
+  "tagNumber" : "01QFF11AA122",
+  "description" : "INA to #1 bearing backup seal air supply ",
+  "specificLocation" : "GT ENCLOSURE Lower East ",
+  "eqType" : "Manual Valve",
+  "locationId" : 26902
+}, {
   "id" : 5000014301,
   "tagNumber" : "02MPV01AA702",
   "description" : "L/O SUPPLY PRESSURE REGULATOR",
