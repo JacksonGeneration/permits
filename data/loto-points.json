@@ -83635,6 +83635,13 @@
   "eqType" : "Manual Valve",
   "locationId" : 41303
 }, {
+  "id" : 8000033176,
+  "tagNumber" : "02QFF11AA116",
+  "description" : "COOLING AIR VIBRATION PICUP ISO",
+  "specificLocation" : "GT ENCLOSURE LOWER NORTH-EAST",
+  "eqType" : "Manual Valve",
+  "locationId" : 41303
+}, {
   "id" : 11000029508,
   "tagNumber" : "01-LVB-XFR-1111",
   "description" : "HRSG 1 PDC XFMR",
