@@ -8260,10 +8260,10 @@
   "locationId" : 20506
 }, {
   "id" : 22182,
-  "tagNumber" : "CB01",
-  "description" : "U1 EVAP COOLER PUMP POWER",
-  "specificLocation" : "GT INLET- INSIDE EVAP CONTROL PANEL",
-  "eqType" : "CONTROL PANEL",
+  "tagNumber" : "01-PMP-CTP001-JG",
+  "description" : "EVAP COOLER PUMP POWER",
+  "specificLocation" : "EVAP CONTROL PANEL, CB01",
+  "eqType" : "Pump",
   "locationId" : 20506
 }, {
   "id" : 22183,
@@ -12692,7 +12692,7 @@
 }, {
   "id" : 22815,
   "tagNumber" : "02-V-BUR800",
-  "description" : "DB SKID MAIN ISO",
+  "description" : "DB PURGE CREDIT SKID MAIN ISO",
   "specificLocation" : "HRSG WEST - LOWER",
   "eqType" : "",
   "locationId" : null
@@ -13218,7 +13218,7 @@
   "id" : 22890,
   "tagNumber" : "02-MBH06AN101",
   "description" : "ECA COMPRESSOR A",
-  "specificLocation" : " MVB SWITCHGEAR 11, CUBICLE 05A",
+  "specificLocation" : " MVB SWITCHGEAR 11, CUBICLE 05B",
   "eqType" : "Breaker 6.9kV",
   "locationId" : 10904
 }, {
@@ -21987,11 +21987,11 @@
   "locationId" : null
 }, {
   "id" : 24143,
-  "tagNumber" : "0201",
-  "description" : "EVAP COOLER PUMP",
-  "specificLocation" : "EVAP CONTROL PANEL",
-  "eqType" : "",
-  "locationId" : null
+  "tagNumber" : "02-PMP-CTP001-JG",
+  "description" : "EVAP COOLER PUMP POWER",
+  "specificLocation" : "EVAP CONTROL PANEL, CB01",
+  "eqType" : "Pump",
+  "locationId" : 20506
 }, {
   "id" : 24144,
   "tagNumber" : "no data",
@@ -69616,7 +69616,7 @@
 }, {
   "id" : 30949,
   "tagNumber" : "02MKW01AA112",
-  "description" : "SEAL OIL STRAINER OUTLET",
+  "description" : "SEAL OIL PRV OUTLET ISO",
   "specificLocation" : "ST BASEMENT",
   "eqType" : "",
   "locationId" : null
@@ -69651,7 +69651,7 @@
 }, {
   "id" : 30954,
   "tagNumber" : "01MKW01AA112",
-  "description" : "SEAL OIL STRAINER OUTLET ISO",
+  "description" : "SEAL OIL PRV OUTLET ISO",
   "specificLocation" : "ST BASEMENT",
   "eqType" : "Manual Valve",
   "locationId" : 17303
@@ -82405,7 +82405,7 @@
 }, {
   "id" : 113712,
   "tagNumber" : "01MKW01AA113",
-  "description" : "SEAL OIL DISCH PRV BYPASS",
+  "description" : "SEAL OIL PRV BYPASS",
   "specificLocation" : "ST BASEMENT",
   "eqType" : "Manual Valve",
   "locationId" : 17303
@@ -83122,14 +83122,14 @@
   "description" : "CO2 SUPPLY SPOOL PIECE",
   "specificLocation" : "ST BASEMENT",
   "eqType" : "",
-  "locationId" : null
+  "locationId" : 17303
 }, {
   "id" : 1000008138,
   "tagNumber" : "01-V-CMG002-JG",
   "description" : "H2 SUPPLY SPOOL PIECE",
   "specificLocation" : "ST BASEMENT",
   "eqType" : "",
-  "locationId" : null
+  "locationId" : 17303
 }, {
   "id" : 1000008139,
   "tagNumber" : "01-V-CMG003-JG",
@@ -83614,6 +83614,13 @@
   "eqType" : "Motor Operated Valve",
   "locationId" : 5906
 }, {
+  "id" : 8000032994,
+  "tagNumber" : "02MKW01AA113",
+  "description" : "SEAL OIL PRV BYPASS",
+  "specificLocation" : "ST BASEMENT",
+  "eqType" : "Manual Valve",
+  "locationId" : 17303
+}, {
   "id" : 8000033037,
   "tagNumber" : "01QFF11AA112",
   "description" : "INA SUPPLY TO GT IGNITORS ISO",
@@ -83646,6 +83653,13 @@
   "tagNumber" : "01QFF11AA611",
   "description" : "MAIN INA ISO TO FG PURGE AIR ROOT/VENT/BLOCK AOVs",
   "specificLocation" : "GT ENCLOSURE 3RD LEVEL WEST SIDE",
+  "eqType" : "Manual Valve",
+  "locationId" : 23702
+}, {
+  "id" : 11000036617,
+  "tagNumber" : "01QFF11AA671",
+  "description" : "MAIN INA ISO TO 4S COOLIN AIR CV",
+  "specificLocation" : "GT ENCLOSURE WEST - UPPER (3RD LEVEL)",
   "eqType" : "Manual Valve",
   "locationId" : 23702
 }, {
