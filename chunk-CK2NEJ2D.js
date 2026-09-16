@@ -1,0 +1,1 @@
+var o=new Set(["cancelled","canceled"]);function t(e){return Array.isArray(e?.packages)?e.packages:[]}function u(e){return t(e).length>1}function a(e){return o.has(String(e??"").trim().toLowerCase())}function s(e){let n=t(e);return n.length>0?n.some(r=>!a(r.status)):!!e?.packageNumber&&!a(e?.packageStatus)}export{t as a,u as b,a as c,s as d};
