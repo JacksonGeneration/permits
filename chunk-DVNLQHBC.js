@@ -1,0 +1,1 @@
+function s(n){return(n??"").toLowerCase().trim().split(/\s+/).filter(Boolean)}function u(n,r,i){if(r.length===0)return!0;let o=n.map(e=>(e??"").toLowerCase());return i==="AND"?r.every(e=>o.some(t=>t.includes(e))):r.some(e=>o.some(t=>t.includes(e)))}export{s as a,u as b};
