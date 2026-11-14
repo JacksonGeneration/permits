@@ -1,0 +1,1 @@
+import{W as o,ha as i,ka as n}from"./chunk-S54PAQZ2.js";function l(e,t=8e3){let r=o(n),v=r.runOutsideAngular(()=>setInterval(()=>r.run(()=>{e()}),t));return o(i).onDestroy(()=>clearInterval(v)),e(),()=>{e()}}export{l as a};
