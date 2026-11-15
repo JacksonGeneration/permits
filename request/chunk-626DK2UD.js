@@ -1,0 +1,1 @@
+import{S as o,da as i,ga as n}from"./chunk-KIMXBKEP.js";function l(e,t=8e3){let r=o(n),v=r.runOutsideAngular(()=>setInterval(()=>r.run(()=>{e()}),t));return o(i).onDestroy(()=>clearInterval(v)),e(),()=>{e()}}export{l as a};
